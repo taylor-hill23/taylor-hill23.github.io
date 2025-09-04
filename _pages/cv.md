@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, Florida State University, 2029 (expected)
+* B.A. in Political Science, Minor: History, Brigham Young University-Idaho,*Summa Cum Laude*, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2024-Present: Research Assistant
+  * Florida State University
+  * Supervisor: Brad Gomez
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Sept 2022-July 2023: Political Science Research Assistant
+  * Brigham Young University-Idaho
+  * Supervisor: Matt R. Miles
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Survey Interviewer
+  * Clear Insights
+  * Duties included: Conducted over-the-phone survey interviews, many regarding political topics. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Data Analysis
+  * Statistical Analysis
+  * Data Cleaning
+  * Data Visualization
+* LaTeX
 
 Publications
 ======
@@ -61,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022- Social Media Campaign Advisor in State Legislative Race
