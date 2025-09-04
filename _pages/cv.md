@@ -20,7 +20,7 @@ Work experience
   * Florida State University
   * Supervisor: Brad Gomez
 
-*Sept 2022-July 2023: Political Science Research Assistant
+* Sept 2022-July 2023: Political Science Research Assistant
   * Brigham Young University-Idaho
   * Supervisor: Matt R. Miles
 
