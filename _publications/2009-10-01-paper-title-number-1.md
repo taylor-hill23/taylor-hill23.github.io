@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-LDS-Influence-In-Vaccine-Decisions
 excerpt: 'Co-Authors: Matt Miles and Rebecca Glazier'
-date: 2009-10-01
+date: 2024
 venue: 'Forthcoming'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
